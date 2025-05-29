@@ -15,6 +15,7 @@ public class TablaCitas extends javax.swing.JInternalFrame {
      */
     public TablaCitas() {
         initComponents();
+        System.out.println("Hola Mundo");
     }
 
     /**
