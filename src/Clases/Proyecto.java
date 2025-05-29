@@ -18,6 +18,7 @@ public class Proyecto {
      */
     public static void main(String[] args) {
         
+        System.out.println("Sudo> Iniciando programa");
         InitView N = new InitView();
         N.setVisible(true);
         N.setLocationRelativeTo(null);
